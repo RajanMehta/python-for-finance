@@ -1,2 +1,3 @@
-# python-investment-fundamentals
+# python-for-finance
+
 Finance fundamentals using Python
